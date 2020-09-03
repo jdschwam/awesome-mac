@@ -1,4 +1,4 @@
-Awesome Mac
+Awesome Mac - ABE Adjusted
 ----
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
@@ -13,7 +13,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 **Explanation**
 
 [English](README.md) | [中文](README-zh.md)
-
+ 
 ![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
 ![App Store][app-store Icon] means **App store** hyperlink;\
