@@ -37,7 +37,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [RSS](#rss)
     - [Others](#others)
 - [Developer Tools](#developer-tools)
-    - [IDEs](#ides)
+    - [*** IDEs](#ides)
     - [Developer Utilities](#developer-utilities)
     - [Regular Expression Editors](#regular-expression-editors)
     - [API Development and Analysis](#api-development-and-analysis)
